@@ -23,3 +23,4 @@ print(f"\nFun fact: I build all the Halloween and Christmas displays you see at 
 
 # End border for Profile
 print("=" *80)
+
