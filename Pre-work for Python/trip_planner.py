@@ -23,7 +23,7 @@ print(f"Distance: {total_distance} miles\n")
 
 print("-" * 3, "Cost Breakdown", "-" * 3)
 # output of calculated data
-print(f"Gas (${gas_needed:.2f} @ ${gas_price:.2f}): ${gas_cost:.2f}")
+print(f"Gas ({gas_needed:.2f} @ ${gas_price:.2f}): ${gas_cost:.2f}")
 print(f"Hotel ({nights_stayed} nights @ ${hotel_avg_cost:.2f}): ${hotel_cost:.2f}")
 print(f"Food ({days_stayed} days @ ${food_budget:.2f}): ${food_cost}")
 # Grand total of trip
